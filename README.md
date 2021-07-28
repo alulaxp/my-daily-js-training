@@ -2,11 +2,6 @@
 Hi! this is my daily training to improve my TDD' and good js practices. 
 
 
-
-# Gilded Rose
-
-This is the Gilded Rose kata in JavaScript with Jest
-
 ## Getting started
 
 Install dependencies
