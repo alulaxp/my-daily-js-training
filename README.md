@@ -1,2 +1,36 @@
 # my-daily-js-training
-Hi! this is my daily training to improve my TDD' and good js practices. I'm using JEST for testing. 
+Hi! this is my daily training to improve my TDD' and good js practices. 
+
+
+
+# Gilded Rose
+
+This is the Gilded Rose kata in JavaScript with Jest
+
+## Getting started
+
+Install dependencies
+
+```sh
+npm install
+```
+
+## Running tests
+
+To run all tests
+
+```sh
+npm test
+```
+
+To run all tests in watch mode
+
+```sh
+npm run test:watch
+```
+
+To generate test coverage report
+
+```sh
+npm run test:coverage
+```
